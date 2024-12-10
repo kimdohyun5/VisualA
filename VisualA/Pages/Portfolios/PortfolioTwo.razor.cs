@@ -7,5 +7,6 @@ namespace VisualA.Pages.Portfolios
 {
     public partial class PortfolioTwo
     {
+
     }
 }
